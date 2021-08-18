@@ -1,5 +1,5 @@
 {
-  "name": "ypmei-opensea-js",
+  "name": "@yipinmei/opensea-js",
   "version": "1.1.5",
   "description": "JavaScript SDK for the OpenSea marketplace. Let users buy or sell crypto collectibles and other cryptogoods, all on your own site!",
   "files": [
